@@ -1,5 +1,6 @@
 <?php
 
+namespace HTML\Tag;
 
 class TagAttributes
 {
